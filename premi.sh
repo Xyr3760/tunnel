@@ -1015,7 +1015,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ SCRIPT BY VILLAIN TUNNEL ]-==============="
+echo "===============-[ SCRIPT BY XYORUZ TUNNEL ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
